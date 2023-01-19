@@ -1,0 +1,11 @@
+C:\Users\Alexandra\source\repos\Lab06_Avramyshyn\Lab06_Avramyshyn\bin\Debug\Lab06_Avramyshyn.exe.config
+C:\Users\Alexandra\source\repos\Lab06_Avramyshyn\Lab06_Avramyshyn\bin\Debug\Lab06_Avramyshyn.exe
+C:\Users\Alexandra\source\repos\Lab06_Avramyshyn\Lab06_Avramyshyn\bin\Debug\Lab06_Avramyshyn.pdb
+C:\Users\Alexandra\source\repos\Lab06_Avramyshyn\Lab06_Avramyshyn\obj\Debug\Lab06_Avramyshyn.csproj.AssemblyReference.cache
+C:\Users\Alexandra\source\repos\Lab06_Avramyshyn\Lab06_Avramyshyn\obj\Debug\Lab06_Avramyshyn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandra\source\repos\Lab06_Avramyshyn\Lab06_Avramyshyn\obj\Debug\Lab06_Avramyshyn.Form1.resources
+C:\Users\Alexandra\source\repos\Lab06_Avramyshyn\Lab06_Avramyshyn\obj\Debug\Lab06_Avramyshyn.Properties.Resources.resources
+C:\Users\Alexandra\source\repos\Lab06_Avramyshyn\Lab06_Avramyshyn\obj\Debug\Lab06_Avramyshyn.csproj.GenerateResource.cache
+C:\Users\Alexandra\source\repos\Lab06_Avramyshyn\Lab06_Avramyshyn\obj\Debug\Lab06_Avramyshyn.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\Lab06_Avramyshyn\Lab06_Avramyshyn\obj\Debug\Lab06_Avramyshyn.exe
+C:\Users\Alexandra\source\repos\Lab06_Avramyshyn\Lab06_Avramyshyn\obj\Debug\Lab06_Avramyshyn.pdb
